@@ -1,0 +1,13 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="emulator#31.1.4" />
+      <item value="skiaparser;2#3" />
+      <item value="system-images;android-29;default;x86_64#8" />
+      <item value="system-images;android-30;google_apis;x86#10" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="AI-211.7628.21.2111.8139111" />
+    <option name="LAST_TIME_CHECKED" value="1646375503173" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
