@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="00988e433f5c4c56" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-25T07:22:11.803262400Z" />
+        <name value="LGE Nexus 5X" />
+        <target value="Android 8.1" />
+        <api value="27" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="GEY6R20730009471" />
           </Key>
         </key>
