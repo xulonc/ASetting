@@ -8,9 +8,10 @@
             <value value="00988e433f5c4c56" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <lastOnlineTime value="2022-04-26T13:05:01.425868100Z" />
+        <name value="LGE Nexus 5X" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
