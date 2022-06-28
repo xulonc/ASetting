@@ -5,24 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="GEY6R20730009471" />
+          </Key>
+        </key>
+        <name value="HUAWEI AQM-AL10" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="00988e433f5c4c56" />
           </Key>
         </key>
         <name value="LGE Nexus 5X" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="GEY6R20730009471" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-04-24T08:48:50.693024800Z" />
-        <name value="HUAWEI AQM-AL10" />
-        <target value="Android 10.0" />
-        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
